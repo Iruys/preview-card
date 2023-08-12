@@ -110,7 +110,9 @@ main .product{
    main .product{
       grid-template-columns: 1fr 1fr;
    }
-  
+  .color{
+    
+  }
   
 }
 
